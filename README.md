@@ -1929,6 +1929,7 @@ algorithms, knowledgebase and AI technology.
 * [Wrike](https://www.wrike.com)
 * [Yammer](https://www.yammer.com)
 * [YouTrack](https://www.jetbrains.com/youtrack)
+* [ZenTao](https://www.zentao.pm) - A open source agile tool for application lifecycle management.
 * [Zoho](https://www.zoho.com)
 
 ## [↑](#contents) Communication Tools
